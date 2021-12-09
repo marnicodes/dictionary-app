@@ -9,8 +9,11 @@ export default function Meaning(props) {
       ) {
         return (
           <div key={index}>
-            <p>{definition.definition}</p>
-            <em>{definition.example}</em>
+            <p>
+              {definition.definition}
+              <br />
+              <em>{definition.example}</em>
+            </p>
           </div>
         );
       })}

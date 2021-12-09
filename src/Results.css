@@ -1,5 +1,7 @@
-.Results h2 {
-  color: #dd6948;
+.Results h1 {
+  font-size: 60px;
+  color: #e6978e;
+  font-family: "Fredericka the Great", cursive;
 }
 .Results #meaning {
   color: #dd6948;
