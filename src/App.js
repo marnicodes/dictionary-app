@@ -12,6 +12,10 @@ export default function App() {
           </div>
         </header>
         <Dictionary />
+        <footer className="App-footer">
+          Coded by{" "}
+          <a href="https://github.com/marnicodes/dictionary-app">Marni Ali</a>
+        </footer>
       </div>
     </div>
   );
