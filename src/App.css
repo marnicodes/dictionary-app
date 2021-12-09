@@ -4,6 +4,7 @@
   margin: 0 auto;
 }
 
-.App-header {
+.App-header,
+.App .Dictionary {
   background-color: #282c34;
 }
