@@ -4,8 +4,8 @@ import Dictionary from "./Dictionary";
 
 export default function App() {
   return (
-    <div class="p-3 mb-2 bg-dark bg-gradient">
-      <div className="App">
+    <body className="p-3 mb-2 bg-dark bg-gradient">
+      <div className="App bg-dark bg-gradient">
         <header className="App-header">
           <div className="container">
             <img src={logo} id="App-logo" alt="logo" className="img-fluid" />
@@ -19,6 +19,6 @@ export default function App() {
           </small>
         </footer>
       </div>
-    </div>
+    </body>
   );
 }
