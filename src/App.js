@@ -4,7 +4,7 @@ import Dictionary from "./Dictionary";
 
 export default function App() {
   return (
-    <body className="p-3 mb-2 bg-dark bg-gradient">
+    <div className="p-3 mb-2 bg-dark bg-gradient">
       <div className="App bg-dark bg-gradient">
         <header className="App-header">
           <div className="container">
@@ -19,6 +19,6 @@ export default function App() {
           </small>
         </footer>
       </div>
-    </body>
+    </div>
   );
 }
