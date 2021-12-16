@@ -1,0 +1,20 @@
+.Phonetic #text {
+  color: #e6978e;
+  font-family: "Fredericka the Great", cursive;
+  display: inline-block;
+}
+.Phonetic a {
+  text-decoration: none;
+  color: #e6978e;
+  font-style: "Bebas Neue", cursive;
+  font-weight: bold;
+  border: 1px solid #e6978e;
+  border-radius: 25px;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.Phonetic a:hover {
+  background: #e6978e;
+  color: #1e1e1e;
+}

@@ -6,16 +6,24 @@
   box-shadow: 0 -2px 10px rgba(0, 0, 0, 1);
 }
 
+.Dictionary #heading {
+  color: #e6978e;
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-style: "Bebas Neue", cursive;
+}
+
 .Dictionary input {
   width: 100%;
   padding: 6px 4px;
   border-radius: 5px;
   font-style: "Bebas Neue", cursive;
+  color: rgba(30, 30, 30, 0.7);
   border: 1px solid #ddd;
 }
 
 .Dictionary .hint {
   font-size: 12px;
-  color: #ebc5c1;
+  color: #e6978e;
   margin-top: 5px;
 }
