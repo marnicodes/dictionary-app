@@ -7,10 +7,9 @@ export default function Results(props) {
   if (props.results) {
     return (
       <div className="Results">
-        <h1>
-          {props.results.word}
-          {props.results.phonetic.text}
-        </h1>
+        <section>
+          <h1>{props.results.word}</h1>
+        </section>
         {props.results.phonetics.map(function (phonetic, index) {
           return (
             <div key={index}>
@@ -21,9 +20,9 @@ export default function Results(props) {
         {props.results.meanings.map(function (meaning, index) {
           return (
             // to return definition: return meaning.definitions[0].definition
-            <div key={index} id="meaning">
+            <section key={index} id="meaning">
               <Meaning meaning={meaning} />
-            </div>
+            </section>
           );
         })}
       </div>
