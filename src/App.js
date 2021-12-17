@@ -6,7 +6,7 @@ export default function App() {
     <div className="p-3 mb-2 bg-dark bg-gradient">
       <div className="App bg-dark bg-gradient">
         <header className="App-header"></header>
-        <Dictionary defaultKeyword="twilight" />
+        <Dictionary defaultKeyword="mess" />
         <footer className="App-footer">
           <small>
             Coded by{" "}
