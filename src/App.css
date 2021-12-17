@@ -10,6 +10,9 @@
 .App-footer {
   color: #e6978e;
   padding-top: 8px;
+  font-size: 12px;
+  text-align: center;
+  font-style: "Bebas Neue", cursive;
 }
 .App-footer a {
   text-decoration: none;
