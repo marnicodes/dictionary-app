@@ -22,8 +22,7 @@ h3 {
 .example {
   font-style: "Bebas Neue", cursive;
   font-style: italic;
-  color: #e6978e;
-  opacity: 50%;
+  color: #e6978ea1;
   margin-top: -5px;
 }
 .example::first-letter {
