@@ -8,7 +8,7 @@ export default function App() {
         <header className="App-header">
           DICTIO<em>NARY</em>
         </header>
-        <Dictionary defaultKeyword="urban" />
+        <Dictionary defaultKeyword="sign" />
         <footer className="App-footer">
           <small>
             Coded by{" "}
