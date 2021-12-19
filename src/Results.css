@@ -1,8 +1,31 @@
 .Results h1 {
-  font-size: 60px;
+  font-size: 80px;
   color: #e6978e;
+  margin-top: -20px;
   font-family: "Fredericka the Great", cursive;
 }
 .Results #meaning {
   color: #e6978e;
+}
+h3 {
+  font-size: 40px;
+  font-family: "Fredoka One", cursive;
+}
+
+.definition {
+  font-style: "Bebas Neue", cursive;
+}
+.definition::first-letter {
+  text-transform: uppercase;
+}
+
+.example {
+  font-style: "Bebas Neue", cursive;
+  font-style: italic;
+  color: #e6978e;
+  opacity: 50%;
+  margin-top: -5px;
+}
+.example::first-letter {
+  text-transform: uppercase;
 }

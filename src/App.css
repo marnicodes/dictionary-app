@@ -10,7 +10,7 @@
 .App-footer {
   color: #e6978e;
   padding-top: 8px;
-  font-size: 12px;
+  font-size: 15px;
   text-align: center;
   font-style: "Bebas Neue", cursive;
 }
@@ -20,4 +20,12 @@
 }
 .App-footer a:hover {
   opacity: 70%;
+}
+.App-header {
+  color: #e97467;
+
+  font-size: 96px;
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  font-weight: bold;
 }

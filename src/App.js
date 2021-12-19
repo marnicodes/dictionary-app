@@ -5,8 +5,10 @@ export default function App() {
   return (
     <div className="p-3 mb-2 bg-dark bg-gradient">
       <div className="App bg-dark bg-gradient">
-        <header className="App-header"></header>
-        <Dictionary defaultKeyword="mess" />
+        <header className="App-header">
+          DICTIO<em>NARY</em>
+        </header>
+        <Dictionary defaultKeyword="urban" />
         <footer className="App-footer">
           <small>
             Coded by{" "}
