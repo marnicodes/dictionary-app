@@ -16,6 +16,8 @@
 }
 .App-footer a {
   text-decoration: none;
+  font-style: italic;
+  font-weight: bold;
   color: #e6978e;
 }
 .App-footer a:hover {

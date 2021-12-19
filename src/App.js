@@ -12,7 +12,12 @@ export default function App() {
         <footer className="App-footer">
           <small>
             Coded by{" "}
-            <a href="https://github.com/marnicodes/dictionary-app">Marni Ali</a>
+            <a href="https://www.instagram.com/marnikodes/ ">Marni Ali</a> and
+            this project is{" "}
+            <a href="https://github.com/marnicodes/dictionary-app">
+              open-sourced
+            </a>{" "}
+            and <a href="https://eloquent-payne-de95f8.netlify.app">hosted</a>.
           </small>
         </footer>
       </div>
