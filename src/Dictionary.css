@@ -9,14 +9,14 @@
 
 .Dictionary #heading {
   color: #e6978e;
-  font-size: 30px;
+  font-size: 24px;
   margin-bottom: 10px;
   font-style: "Bebas Neue", cursive;
 }
 
 .Dictionary input {
   width: 100%;
-  padding: 6px 4px;
+  padding: 6px 6px;
   border-radius: 5px;
   font-style: "Bebas Neue", cursive;
   color: rgba(30, 30, 30, 0.7);
@@ -27,5 +27,5 @@
   font-size: 15px;
   font-weight: bold;
   color: #e6978ea1;
-  margin-top: 5px;
+  margin-top: 10px;
 }

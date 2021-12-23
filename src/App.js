@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="p-3 mb-2 bg-dark bg-gradient">
       <div className="App bg-dark bg-gradient">
-        <header className="App-header">
+        <header className="App-header text-center">
           DICTIO<em>NARY</em>
         </header>
         <Dictionary defaultKeyword="sign" />
