@@ -29,3 +29,11 @@
   color: #e6978ea1;
   margin-top: 10px;
 }
+@media (max-width: 600px) {
+  .Dictionary #heading {
+    font-size: 20px;
+  }
+  .Dictionary .hint {
+    font-size: 10px;
+  }
+}

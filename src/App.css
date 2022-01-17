@@ -20,8 +20,13 @@
 }
 .App-header {
   color: #e97467;
-  font-size: 62px;
+  font-size: 84px;
   font-family: "Fredoka One", cursive;
-  text-align: center;
   font-weight: bold;
+}
+@media (max-width: 600px) {
+  .App-header {
+    text-align: center;
+    font-size: 40px;
+  }
 }

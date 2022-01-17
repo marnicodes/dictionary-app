@@ -14,6 +14,7 @@ h3 {
 
 .definition {
   font-style: "Bebas Neue", cursive;
+  margin-bottom: -10px;
 }
 .definition::first-letter {
   text-transform: uppercase;
@@ -23,7 +24,7 @@ h3 {
   font-style: "Bebas Neue", cursive;
   font-style: italic;
   color: #e6978ea1;
-  margin-top: -5px;
+  margin-bottom: -8px;
 }
 .example::first-letter {
   text-transform: uppercase;
